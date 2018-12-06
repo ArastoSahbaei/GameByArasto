@@ -17,6 +17,16 @@ distributions.</p>
 <p align="center">
 <a href="https://build.snapcraft.io/user/snapcrafters/discord"><img src="https://build.snapcraft.io/badge/snapcrafters/discord.svg" alt="Snap Status"></a>
 </p>
+
+
+
+
+
+
+
+
+
+
 <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="discord-logo-container" viewBox="0 0 48 48">
   <defs>
     <g>
