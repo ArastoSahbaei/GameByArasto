@@ -25,8 +25,6 @@ distributions.</p>
 
 
 
-
-
 <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="discord-logo-container" viewBox="0 0 48 48">
   <defs>
     <g>
