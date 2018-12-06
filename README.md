@@ -30,5 +30,5 @@ distributions.</p>
     <br />
     Discord
     <br />
-    Yet another Discord Library for SourceMod
+    Join us on Discord!
 </h1>
