@@ -10,5 +10,10 @@ written in Java.
   Discord
 </h1>
 
-
-hehe
+<p align="center"><b>This is the snap for Discord</b>, <i>"an all-in-one voice
+and text chat for gamers that's free, secure, and works on both your desktop
+and phone"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+distributions.</p>
+<p align="center">
+<a href="https://build.snapcraft.io/user/snapcrafters/discord"><img src="https://build.snapcraft.io/badge/snapcrafters/discord.svg" alt="Snap Status"></a>
+</p>
