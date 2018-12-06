@@ -30,3 +30,4 @@ distributions.</p>
     <br />
     Join us on Discord!
 </h1>
+<hr>
