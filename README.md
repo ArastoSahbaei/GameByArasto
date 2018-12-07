@@ -33,7 +33,7 @@ distributions.</p>
 <hr>
 
 
-# Join us on Discord! [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
+# Join us on Discord! [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/NTwCYr)
 
 
 
