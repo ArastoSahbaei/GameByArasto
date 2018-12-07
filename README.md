@@ -38,6 +38,8 @@ distributions.</p>
 ### Join us on Discord! [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/NTwCYr)
 
 
+<script>addBackToTop()</script>
+
 
 
 
