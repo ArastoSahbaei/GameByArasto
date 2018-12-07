@@ -26,7 +26,7 @@ distributions.</p>
 
 <hr>
 <h1 align="center">
-    <img src="https://discord.gg/NTwCYr" />
+    <img src="https://raw.githubusercontent.com/CrazyHackGUT/Discord/master/.github/Discord_Logo.png" />
     <br />
     Join us on Discord!
 </h1>
