@@ -35,7 +35,7 @@ distributions.</p>
 
 <h1 align="center"> Join us on Discord! [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/NTwCYr) </h1>
 
-# Join us on Discord! [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/NTwCYr)
+##### Join us on Discord! [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/NTwCYr)
 
 
 
