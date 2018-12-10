@@ -7,7 +7,7 @@
 
 
 <hr>
-<h1> Join Us On Discord! </h1>
+<h1 align="center"> Join Us On Discord! </h1>
 
 <p align="center">
 <a href="https://discord.gg/XrXsmVy" 
