@@ -8,4 +8,5 @@
 
 <hr>
 <h2> Join Us On Discord! </h2>
+
 ![alt text](https://img.shields.io/discord/414084485110431745.svg?style=for-the-badge)
