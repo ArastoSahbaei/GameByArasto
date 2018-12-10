@@ -6,3 +6,5 @@
 
 
 https://img.shields.io/discord/414084485110431745.svg?style=for-the-badge
+
+![alt text](https://img.shields.io/discord/414084485110431745.svg?style=for-the-badge)
