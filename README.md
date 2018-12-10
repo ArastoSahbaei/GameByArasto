@@ -14,6 +14,6 @@
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://img.shields.io/discord/414084485110431745.svg?style=for-the-badge" 
+<a href="https://discord.gg/XrXsmVy" 
+target="_blank"><img src="https://img.shields.io/discord/414084485110431745.svg?style=for-the-badge" 
 alt="https://img.shields.io/discord/414084485110431745.svg?style=for-the-badge" width="340" height="150" border="20" /></a>
