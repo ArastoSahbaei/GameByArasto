@@ -13,7 +13,6 @@
 
 
 
-
-<a href="https://discord.gg/XrXsmVy" 
+<a href align="center"="https://discord.gg/XrXsmVy" 
 target="_blank"><img src="https://img.shields.io/discord/414084485110431745.svg?style=for-the-badge" 
 alt="https://img.shields.io/discord/414084485110431745.svg?style=for-the-badge" width="340" height="120" border="20" /></a>
